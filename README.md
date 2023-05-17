@@ -11,4 +11,4 @@
 <img src="./Pictures/显示界面.png"/>
 
 ### 3、功能界面
-<img src="./Pictures/功能界面.png/> 
+<img src="./Pictures/功能界面.png"/> 
