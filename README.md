@@ -1,6 +1,7 @@
 # Invoice-Terminator
-发票终结者发布版V3.2
+目前，发票终结者发布版为V3.40
  - [演示视频](https://youtu.be/qPhOel3cL98)
+请忽用于商用……
 
 ##  界面显示
 
